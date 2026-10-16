@@ -1,0 +1,19 @@
+# Keil generated outputs
+*.OBJ
+*.obj
+*.o
+*.crf
+*.LST
+*.lst
+*.MAP
+*.map
+*.hex
+*.lnp
+*.uvgui*
+*.uvopt*
+*.build_log.htm
+Listings/
+Objects/
+__pycache__/
+
+/UART1
